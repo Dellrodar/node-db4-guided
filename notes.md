@@ -2,11 +2,13 @@
 
 ## Denormalized Data
 
-> const farm = {
-> id: 1,
-> name: "Lon Lon Ranch"
-> animals: [ Horse, Chicken, Cows ]
-> }
+```javascript
+const farm = {
+ id: 1,
+ name: "Lon Lon Ranch"
+ animals: [ Horse, Chicken, Cows ]
+ }
+```
 
 ## Guidelines
 
